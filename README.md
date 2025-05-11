@@ -14,5 +14,6 @@ This repository contains a Power BI report visualizing sales performance across 
 -Regional Analysis	Map
 
 ## Preview:
-![Screenshot 2025-05-11 191025](https://github.com/user-attachments/assets/2f8ce0e2-a4d4-494c-9c59-41139b1b14b6.png)
+![Screenshot 2025-05-11 191025](https://github.com/user-attachments/assets/b95886ff-5c08-4736-8c63-1f041cb7b5b8)
+
 
